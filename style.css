@@ -27,7 +27,6 @@ body{
 }
 .contact__item{
     margin: 0 1rem;
-
 }
 
 
@@ -43,5 +42,12 @@ body{
     padding: var(--container-padding);
 }
 .introduction{
+    display: flex;
+}
+
+.skills{
+    padding: var(--container-padding);
+}
+.skill{
     display: flex;
 }
