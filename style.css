@@ -9,6 +9,7 @@
 
 body{
     background-color: var(--color-white);
+    margin: 0 0;
 }
 
 
@@ -24,6 +25,12 @@ body{
 }
 
 .contact__item{
-    margin: 0 0 1rem 1rem;
+    margin: 0 1rem;
 
+}
+
+
+.banner{
+    background-color: var(--color-beige);
+    padding: 1rem 1rem;
 }
