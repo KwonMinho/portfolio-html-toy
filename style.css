@@ -15,7 +15,15 @@ body{
 .navbar{
     display: flex;
     justify-content: space-between;
-
     padding: 2rem;
 }
 
+.contact{
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact__item{
+    margin: 0 0 1rem 1rem;
+
+}
