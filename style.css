@@ -54,7 +54,19 @@ body{
 
 
 
+.project{
+    padding: var(--container-padding);   
+}
+.project__item{
+    display: flex;
+}
 
+
+
+
+.education{
+    padding: var(--container-padding);   
+}
 .univ .univmaster{
     display: flex;
 }
