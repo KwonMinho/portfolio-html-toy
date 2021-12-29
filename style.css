@@ -53,6 +53,14 @@ body{
 }
 
 
+.paper{
+    padding: var(--container-padding);   
+}
+.paper__item{
+    display: flex;
+}
+
+
 
 .project{
     padding: var(--container-padding);   
